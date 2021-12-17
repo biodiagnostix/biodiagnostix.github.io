@@ -1,0 +1,9 @@
+.ekko-lightbox{z-index:100000;}
+.ekko-lightbox .modal-body{position:relative;padding:0;}
+.ekko-lightbox .modal-footer{margin-top:0;}
+.ekko-lightbox .amphiicon:hover,
+.ekko-lightbox .amphiicon:focus{color:#fff;text-decoration:none;}
+.ekko-lightbox
+.amphiicon{font-size:40px;text-decoration:none;font-weight:bold;}
+.ekko-lightbox .amphiicon-angle-left{left:0;float:left;padding-left:15px;text-align:left;}
+.ekko-lightbox .amphiicon-angle-right{right:0;float:right;padding-right:15px;text-align:right;}
